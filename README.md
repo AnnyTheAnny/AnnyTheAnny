@@ -1,3 +1,4 @@
+![](./data/banner/gittt.gif)
 👋 Hi, I’m @AnnyTheAnny
 
 👀 I’m interested in comics, art and videogames
